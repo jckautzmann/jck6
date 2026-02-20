@@ -1,5 +1,12 @@
 [
   {
+  "id": "my-tagged-block",
+  "fields": [
+    { "name": "heading", "component": "text" },
+    { "name": "cq:tags", "component": "aem-tag" }
+  ]
+},
+  {
     "id": "page-metadata",
     "fields": [
       {
